@@ -1,0 +1,14 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.button-wrapper .btn {
+    margin-bottom:5px;
+    margin-top:5px;
+    margin-left:5px;
+    margin-right:5px;
+}
